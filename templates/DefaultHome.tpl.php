@@ -11,7 +11,7 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-          <h4 class="modal-title">Cars with Best MPG</h4>
+          <h4 class="modal-title">Cars just like yours</h4>
         </div>
         <div class="modal-body">
           <table id="maintbl" class="table table-bordered table-striped table-hover">
